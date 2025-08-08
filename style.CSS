@@ -10,10 +10,16 @@ p{
 
 
 body{
-    background-color: rgb(220, 23, 66);
+    background-color: rgb(17, 237, 237);
 }
 
 p{
     text-align: center;
 }
 #paragrafo-footer
+
+.paragrafo-section{
+    color: rgb(5, 1, 18);
+}
+
+section{ background-color: rgb(101, 227, 18);}
