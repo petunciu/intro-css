@@ -1,0 +1,19 @@
+h1{
+    color: hwb(0 10% 89%);
+text-align: center; 
+}
+
+p{
+    text-align: justify;
+    color: rgb(26, 28, 25);
+}
+
+
+body{
+    background-color: rgb(220, 23, 66);
+}
+
+p{
+    text-align: center;
+}
+#paragrafo-footer
